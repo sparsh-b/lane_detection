@@ -1,3 +1,5 @@
+# Detect straight lane & distinguish b/w solid & dashed lane
+- This is done as part of project2 of ENPM673 at UMD.
 - Conversion to grayscale, binary thresholding, dilation & erosion, connected component analysis are applied in succession.
 - Blobs of sensible sizes are isolated.
 - Canny edges are detected.
